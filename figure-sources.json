@@ -163,5 +163,60 @@
       1302
     ],
     "sha256": "f6cf2b6401092c0b40832c2d2f91a4a0b43b531ecac30718ee012b05846ed2e4"
+  },
+  {
+    "figure": "1.16",
+    "source": "IMG_0135",
+    "crop_original_pixels": [
+      174,
+      505,
+      1247,
+      684
+    ],
+    "sha256": "da7332bc20744272ebfaa2aace04366fad1e9a8890fe59bb8e54acdf90d7ffe3"
+  },
+  {
+    "figure": "1.17",
+    "source": "IMG_0135",
+    "crop_original_pixels": [
+      180,
+      1251,
+      668,
+      1725
+    ],
+    "sha256": "fd7119e1c02da68e8a514bea7e0c2e016df0da40b38d06038f465c7a62e36072"
+  },
+  {
+    "figure": "1.18-20",
+    "source": "IMG_0136",
+    "crop_original_pixels": [
+      180,
+      690,
+      1461,
+      1347
+    ],
+    "sha256": "801b65477c30223237390baf7fafb2aa49cf77bba9a2a379c67a196666411da0"
+  },
+  {
+    "figure": "1.21-22",
+    "source": "IMG_0136",
+    "crop_original_pixels": [
+      370,
+      1726,
+      1458,
+      2018
+    ],
+    "sha256": "34f6d6fcd11c2316869ebe9dcfbf33c24f8861caed5393b08c90b99381e8a35f"
+  },
+  {
+    "figure": "1.23",
+    "source": "IMG_0138",
+    "crop_original_pixels": [
+      94,
+      180,
+      1531,
+      2037
+    ],
+    "sha256": "b005809d32fb73112f2a417068dc485c148ffd90c5b61c6aabed76da1fe661ef"
   }
 ]
