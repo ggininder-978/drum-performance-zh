@@ -12,3 +12,4 @@
 @media(max-width:820px){.chapter-nav{margin:12px 16px 0}.score-page .score img{max-height:none}}
 @media(max-width:520px){.page-nav{gap:8px;flex-wrap:wrap}.chapter-nav{gap:6px;font-size:12px}.chapter-nav a{padding:7px 9px}.bass-details>.score{float:none;width:65%;margin:14px auto}.sheet h3{font-size:16px}.chapter-two .score img{max-height:none}.chapter-two #ex-16 img,.chapter-two #ex-21-22 img{max-height:none}}
 @media print{.chapter-nav{display:none!important}.chapter-two .score img{max-height:66mm}.chapter-two #ex-16 img{max-height:25mm}.chapter-two #ex-21-22 img{max-height:35mm}.chapter-two h3{font-size:9.5pt;line-height:1.4;margin:7px 0 4px}.chapter-two li{margin-bottom:5px}.bass-details>.score{float:left;width:32%;margin:5px 14px 7px 0}.score-page .score img{max-height:251mm}.practice-page li{margin-bottom:16px}}
+@media(max-width:520px){html{scroll-padding-top:154px}.page-nav{gap:6px}.page-nav a{min-width:32px;min-height:32px}}
